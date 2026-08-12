@@ -122,12 +122,8 @@ export default function Footer() {
                 <span>OSINC Infobit Tech Hub, Rajiv Gandhi Salai (OMR), Taramani IT Corridor, Chennai, Tamil Nadu 600113, India</span>
               </div>
               <div style={{ display: 'flex', alignItems: 'center', gap: '0.6rem' }}>
-                <Phone size={18} color="var(--accent-cyan)" />
-                <span>+91 (044) 4900-8800 / +91 98765-43210</span>
-              </div>
-              <div style={{ display: 'flex', alignItems: 'center', gap: '0.6rem' }}>
                 <Mail size={18} color="var(--accent-cyan)" />
-                <span>contact@osincinfobit.com</span>
+                <span>osinciinfobit@gmail.com</span>
               </div>
               <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', marginTop: '0.3rem', color: 'var(--accent-emerald)', fontSize: '0.8rem' }}>
                 <ShieldCheck size={16} />
